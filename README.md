@@ -1,9 +1,9 @@
 # E-Commerce
   This repository is prepared for the bootcamp final assignment
 ## İçindekiler
-* [Genel bilgi](#general-info)
-* [Teknolojiler](#teknolojiler)
-* [Kurulum](#kurulum)
+* [General Information](#general-info)
+* [Teknology](#teknolojiler)
+* [Setup](#kurulum)
 
 ## Genel Bilgi
 This project is a graduation project prepared for Java Bootcamp organized by Kodlyiz.
