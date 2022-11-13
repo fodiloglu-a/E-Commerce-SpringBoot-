@@ -3,6 +3,7 @@
 ## İçindekiler
 * [General Information](#general-info)
 * [Teknology](#teknolojiler)
+* [Development Editors](#Development-editors)
 * [Setup](#kurulum)
 
 ## Genel Bilgi
@@ -16,8 +17,14 @@ Proje ile oluşturulur:
 * modelmapper=>>3.1
 * lombok
 * mysql
+
+## Development editors:
+* Intellij Idea
+* Postman
 	
 ## Kurmak
 To run this project, install and run it locally with Xamp, using SpringBoot:
+
+
 
  
