@@ -1,5 +1,5 @@
 # E-Commerce
-  This repository is prepared for the bootcamp final assignment
+   
 ## İçindekiler
 * [General Information](#general-info)
 * [Teknology](#teknolojiler)
