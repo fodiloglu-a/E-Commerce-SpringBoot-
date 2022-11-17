@@ -26,5 +26,9 @@ Proje ile oluşturulur:
 To run this project, install and run it locally with Xamp, using SpringBoot:
 
 
+#DatAbASE UML
+
+![image](https://user-images.githubusercontent.com/109350249/202512545-262462ce-2a2f-44b8-a50e-082134f123ba.png)
+
 
  
