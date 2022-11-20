@@ -1,6 +1,6 @@
 package com.commerce.commerce.Core.Annotations.CategoryAnnotations;
 
-import com.commerce.commerce.Model.Category;
+import com.commerce.commerce.Entity.Category;
 import com.commerce.commerce.Repository.Category.ICategoryDao;
 import lombok.RequiredArgsConstructor;
 

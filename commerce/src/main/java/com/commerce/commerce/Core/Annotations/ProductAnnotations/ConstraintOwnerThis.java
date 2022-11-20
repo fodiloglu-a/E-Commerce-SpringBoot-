@@ -1,6 +1,6 @@
 package com.commerce.commerce.Core.Annotations.ProductAnnotations;
 
-import com.commerce.commerce.Model.Product;
+import com.commerce.commerce.Entity.Product;
 import com.commerce.commerce.Repository.Product.IProductDao;
 import lombok.RequiredArgsConstructor;
 

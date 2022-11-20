@@ -1,4 +1,4 @@
-package com.commerce.commerce.Model;
+package com.commerce.commerce.Entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

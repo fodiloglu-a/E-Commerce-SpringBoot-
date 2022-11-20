@@ -2,9 +2,9 @@ package com.commerce.commerce.Services.Category.Concrate;
 
 import com.commerce.commerce.Dtos.Category.CategoryRequest;
 import com.commerce.commerce.Dtos.Category.CategoryResponse;
-import com.commerce.commerce.Model.Cart;
-import com.commerce.commerce.Model.Category;
-import com.commerce.commerce.Model.Product;
+import com.commerce.commerce.Entity.Cart;
+import com.commerce.commerce.Entity.Category;
+import com.commerce.commerce.Entity.Product;
 import com.commerce.commerce.Repository.Category.ICategoryDao;
 import com.commerce.commerce.Services.Category.Abstract.ICategoryServices;
 import lombok.RequiredArgsConstructor;

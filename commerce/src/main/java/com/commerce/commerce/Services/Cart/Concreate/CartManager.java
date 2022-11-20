@@ -2,8 +2,8 @@ package com.commerce.commerce.Services.Cart.Concreate;
 
 
 import com.commerce.commerce.Dtos.Product.ProductResponse;
-import com.commerce.commerce.Model.Cart;
-import com.commerce.commerce.Model.Product;
+import com.commerce.commerce.Entity.Cart;
+import com.commerce.commerce.Entity.Product;
 import com.commerce.commerce.Repository.Cart.ICartDao;
 import com.commerce.commerce.Repository.Product.IProductDao;
 import com.commerce.commerce.Services.Cart.Abstract.ICartServices;

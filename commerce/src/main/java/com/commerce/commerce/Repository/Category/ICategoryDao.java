@@ -1,8 +1,8 @@
 package com.commerce.commerce.Repository.Category;
 
-import com.commerce.commerce.Model.Category;
+import com.commerce.commerce.Entity.Category;
 
-import com.commerce.commerce.Model.Product;
+import com.commerce.commerce.Entity.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;

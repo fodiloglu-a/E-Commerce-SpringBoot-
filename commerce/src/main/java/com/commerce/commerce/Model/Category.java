@@ -1,4 +1,4 @@
-package com.commerce.commerce.Model;
+package com.commerce.commerce.Entity;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.sun.istack.NotNull;

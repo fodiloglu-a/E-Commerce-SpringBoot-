@@ -2,7 +2,7 @@ package com.commerce.commerce.Services.Category.Abstract;
 
 import com.commerce.commerce.Dtos.Category.CategoryRequest;
 import com.commerce.commerce.Dtos.Category.CategoryResponse;
-import com.commerce.commerce.Model.Category;
+import com.commerce.commerce.Entity.Category;
 
 import java.util.List;
 

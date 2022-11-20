@@ -6,8 +6,8 @@ import com.commerce.commerce.Dtos.Product.ProductRequest;
 import com.commerce.commerce.Dtos.Product.ProductResponse;
 import com.commerce.commerce.Dtos.Product.UpdateProduct;
 
-import com.commerce.commerce.Model.Category;
-import com.commerce.commerce.Model.Product;
+import com.commerce.commerce.Entity.Category;
+import com.commerce.commerce.Entity.Product;
 
 import com.commerce.commerce.Repository.Category.ICategoryDao;
 import com.commerce.commerce.Repository.Product.IProductDao;
