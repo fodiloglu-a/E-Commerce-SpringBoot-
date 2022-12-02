@@ -9,9 +9,8 @@
 ## Genel Bilgi
 This project is a graduation project prepared for Java Bootcamp organized by Kodluyoruz.
 The project includes the web-backend side of an e-commerce application.
-Proje içerisinde veritabanı CRUD işlemleri yapılmaktadır.Proje içerisinde Entity olarak Category
-Product ve Cart bullunmaktadır. Veri tabanıolarak MySql kullanılmıştır.
-
+Database CRUD operations are carried out in the project. Category as Entity in the project.
+Product and Cart are available. MySql was used as the database.
 	
 ## Teknolojiler
 Proje ile oluşturulur:
